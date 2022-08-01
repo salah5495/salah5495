@@ -2,7 +2,7 @@
 ### Hi there 👋 Nice to meet you.
 
 
-I'm **Abdullahi Swaleh** an _***Front-End Developer***_ and _***Machine Learning(ML)***_ enthusiast || based in Nairobi, Kenya.
+I'm **Abdullahi Swaleh** a _***Front-End Developer***_ and _***Machine Learning(ML)***_ enthusiast || based in Nairobi, Kenya.
 
 # Find me on.
 [<img src="https://user-images.githubusercontent.com/61431856/117953691-efe3b300-b31e-11eb-9968-b8b0dce1b9bc.jpg" height = "25px" width ="100px"/>](https://twitter.com/diissalah)
