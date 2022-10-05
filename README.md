@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/diissalah" target="blank"><img src="https://img.shields.io/twitter/follow/diissalah?logo=twitter&style=for-the-badge" alt="diissalah" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nodejs, AI**
 
-- 💬 Ask me about **javascript, react, web development**
+- 💬 Ask me about **javascript, react, web development, fronted development**
 
 - 📫 How to reach me **abdullahisalahdiis5395@gmail.com**
 
