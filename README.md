@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **javascript, react, web development**
+- 💬 Ask me about **javascript, react, web development, fronted Development**
 
 - 📫 How to reach me **abdullahisalahdiis5395@gmail.com**
 
