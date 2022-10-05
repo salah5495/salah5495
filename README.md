@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Abdullahi Salah</h1>
 <h3 align="center">A passionate Web developer developer</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salah5495&label=Profile%20views&color=0e75b6&style=flat" alt="salah5495" /> </p>
 
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **javascript, react, web development**
 
 - 📫 How to reach me **abdullahisalahdiis5395@gmail.com**
 
