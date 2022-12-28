@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **javascript, react, web dev**
+- 💬 Ask me about **javascript, react, web development**
 
 - 📫 How to reach me **abdullahisalahdiis5395@gmail.com**
 
