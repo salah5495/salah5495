@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salah5495&label=Profile%20views&color=0e75b6&style=flat" alt="salah5495" /> </p>
 
-<p align="left"> <a href="https://twitter.com/diissalah" target="blank"><img src="https://img.shields.io/twitter/follow/diissalah?logo=twitter&style=for-the-badge" alt="diissalah" /></a> </p>
+
 
 
 
