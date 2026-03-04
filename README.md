@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullahi Salah Diis</h1>
+<h1 align="center">Hi 👋, I'm Abdullahi Salah</h1>
 <h3 align="center">I'm a Software Engineer, eager to build dynamic products and use technology to make a difference</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
